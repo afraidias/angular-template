@@ -1,27 +1,32 @@
-# AngularTemplate
+# Angular template
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 
-## Development server
+## 📑 Description
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Base template for Angular projects. They are configured with several tools that will be very useful to us throughout the development.
 
-## Code scaffolding
+## 🛠 Technologies
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![ESLINT](https://img.shields.io/badge/eslint-1572B6?style=for-the-badge&logo=eslint&logoColor=white)
+![PRETTIER](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![PRETTIER](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-## Build
+![HUSKY](https://img.shields.io/badge/HUSKY-F1F2F3?style=for-the-badge)
+![CHANGELOG](https://img.shields.io/badge/CHANGELOG-F1F2F3?style=for-the-badge)
+![CONVENTIONAL COMMITS](https://img.shields.io/badge/CONVENTIONAL%20COMMITS-F1F2F3?style=for-the-badge)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 👉🏻 Author
+**Alberto**
 
-## Running unit tests
+* [afraidiasmedina@gmail.com](afraidiasmedina@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/afraidias/)
+* [Porfolio web](https://afraidias.vercel.app)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## ⚙️ Setup
+`npm i`
+  
+## License 📄
+MIT Public License v3.0
+It cannot be used commercially.
