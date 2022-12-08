@@ -27,6 +27,6 @@ Base template for Angular projects. They are configured with several tools that 
 ## ⚙️ Setup
 `npm i`
   
-## License 📄
+## 📄 License
 MIT Public License v3.0
 It cannot be used commercially.
