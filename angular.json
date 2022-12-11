@@ -3,7 +3,7 @@
 	"version": 1,
 	"newProjectRoot": "projects",
 	"projects": {
-		"website": {
+		"angular-template": {
 			"projectType": "application",
 			"schematics": {
 				"@schematics/angular:component": {
@@ -17,7 +17,7 @@
 				"build": {
 					"builder": "@angular-devkit/build-angular:browser",
 					"options": {
-						"outputPath": "dist/website",
+						"outputPath": "dist/angular-template",
 						"index": "src/index.html",
 						"main": "src/main.ts",
 						"polyfills": "src/polyfills.ts",
@@ -64,10 +64,10 @@
 					"builder": "@angular-devkit/build-angular:dev-server",
 					"configurations": {
 						"production": {
-							"browserTarget": "website:build:production"
+							"browserTarget": "angular-template:build:production"
 						},
 						"development": {
-							"browserTarget": "website:build:development"
+							"browserTarget": "angular-template:build:development"
 						}
 					},
 					"defaultConfiguration": "development"
@@ -75,7 +75,7 @@
 				"extract-i18n": {
 					"builder": "@angular-devkit/build-angular:extract-i18n",
 					"options": {
-						"browserTarget": "website:build"
+						"browserTarget": "angular-template:build"
 					}
 				},
 				"test": {
